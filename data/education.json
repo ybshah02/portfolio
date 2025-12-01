@@ -1,0 +1,27 @@
+[
+  {
+    "degree": "bs - computer science",
+    "institution": "ucla",
+    "location": "los angeles, ca",
+    "year": "2020-2024",
+    "coursework": [
+      "algorithms and complexity",
+      "artificial intelligence",
+      "formal languages and automata",
+      "computer network fundamentals",
+      "operating systems principles",
+      "computer systems architecture",
+      "parallel and distributed computing",
+      "security and trust edge computing",
+      "differential equations",
+      "linear algebra"
+    ],
+    "roles": [
+      {
+        "title": "[external director] bruin ventures",
+        "period": "2022-2024",
+        "description": "grew revenue from $0 to $60,000 by transitioning to a per-client donation billing model. led outbound and closed deals with salesforce ventures, visa ventures, and draper associates for $5k-$10k projects."
+      }
+    ]
+  }
+]

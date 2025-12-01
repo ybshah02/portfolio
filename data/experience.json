@@ -1,0 +1,26 @@
+[
+  {
+    "title": "sde 1",
+    "company": "amazon",
+    "year": "2025",
+    "description": "building amazon key in-garage delivery for 2m+ customers"
+  },
+  {
+    "title": "sde 1",
+    "company": "amazon",
+    "year": "2024",
+    "description": "built taskei, amazon's internal task management platform for 400k+ internal employees"
+  },
+  {
+    "title": "swe intern",
+    "company": "cepton",
+    "year": "2022",
+    "description": "built a real-time storage, indexing, and processing pipeline for lidar data captures on-vehicle"
+  },
+  {
+    "title": "swe intern",
+    "company": "cepton",
+    "year": "2021",
+    "description": "built a model that analyzed a vehicle's physical attributes to determine vehicle class real-time for vehicle-merging algorithms"
+  }
+]

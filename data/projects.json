@@ -1,0 +1,55 @@
+{
+  "tech": [
+    {
+      "id": "01",
+      "title": "crawl",
+      "description": "ai-powered web scraper api that automatically extracts structured data from any webpage using custom llm-scraper tool with smart navigation detection",
+      "tags": ["typescript", "playwright", "openai", "llm"],
+      "github": "https://github.com/ybshah02/crawl"
+    },
+    {
+      "id": "02",
+      "title": "skora-ai",
+      "description": "cv generation service leveraging agent metadata for soccer players",
+      "tags": ["typescript", "python", "openai", "llm"],
+      "github": "https://github.com/ybshah02/skora-ai"
+    },
+    {
+      "id": "03",
+      "title": "the data grid",
+      "description": "open source web-hosted database creation, collection, and management platform for environmental auditing",
+      "tags": ["open source", "data management", "environmental"],
+      "github": "https://github.com/The-Data-Grid/The-Data-Grid"
+    }
+  ],
+  "consulting": [
+    {
+      "id": "01",
+      "title": "draper associates",
+      "description": "led 6 analysts in conducting a market deep-dive into decentralized governances and daos. presented to tim draper",
+      "tags": ["market research", "daos", "decentralized governance"],
+      "url": "https://www.draper.vc"
+    },
+    {
+      "id": "02",
+      "title": "salesforce ventures",
+      "description": "led 8 analysts in conducting a market deep dive into cybersecurity and sourced 60 companies. presented to entire investment board",
+      "tags": ["cybersecurity", "market analysis", "company sourcing"],
+      "url": "https://www.salesforceventures.com"
+    },
+    {
+      "id": "03",
+      "title": "hp tech ventures",
+      "description": "led 9 analysts in conducting a deep dive into generative ai applications and sourced 80 companies. presented to head of ai investments",
+      "tags": ["generative ai", "market research", "ai investments"],
+      "url": "https://www.hptechventures.com"
+    },
+    {
+      "id": "04",
+      "title": "the fintech fund",
+      "description": "led 5 analysts in scoping out landscape of lps and founders in the united states",
+      "tags": ["fintech", "lp mapping", "founder networks"],
+      "url": "https://www.thefintechfund.com"
+    }
+  ]
+}

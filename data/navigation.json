@@ -1,0 +1,6 @@
+[
+  { "id": "home", "label": "home", "path": "/" },
+  { "id": "resume", "label": "resume", "path": "/resume" },
+  { "id": "projects", "label": "projects", "path": "/projects" }
+]
+
