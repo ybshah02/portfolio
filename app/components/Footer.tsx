@@ -27,7 +27,7 @@ export default function Footer() {
       );
     };
 
-    // Update every minute (60000ms)
+    // Update every second
     const interval = setInterval(updateTime, 1000);
     
     // Also update immediately on mount to ensure accuracy

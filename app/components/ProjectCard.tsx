@@ -94,3 +94,4 @@ export default function ProjectCard({ project, variant = "tech" }: ProjectCardPr
     </div>
   );
 }
+
